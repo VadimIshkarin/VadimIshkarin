@@ -1,5 +1,5 @@
 ### Hi there 👋
-### About Me
+
 I'm a full-stack developer who is passionate about web development.
 ### Here are a few technologies I’ve been working with recently:
 ![JavaScript (ES6+)](https://img.shields.io/badge/javascript_(ES6+)-%23323320.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
