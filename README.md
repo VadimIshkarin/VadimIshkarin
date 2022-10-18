@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 ### About Me
 I'm a full-stack developer who is passionate about web development.
 ### Here are a few technologies I’ve been working with recently:
@@ -17,8 +16,6 @@ I'm a full-stack developer who is passionate about web development.
 ![Git](https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-<br>
 
 <!--
 **VadimIshkarin/VadimIshkarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
