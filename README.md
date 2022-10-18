@@ -2,7 +2,7 @@
 
 ### About Me
 I'm a full-stack developer who is passionate about web development.
-# Here are a few technologies I’ve been working with recently:
+### Here are a few technologies I’ve been working with recently:
 ![JavaScript (ES6+)](https://img.shields.io/badge/javascript_(ES6+)-%23323320.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%230769AD.svg?style=for-the-badge&logo=css3&logoColor=white)
