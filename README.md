@@ -12,6 +12,7 @@ I'm a full-stack developer who is passionate about web development.
 ![jQuery](https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-100000?style=for-the-badge&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-red?style=for-the-badge&logo=axios&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
