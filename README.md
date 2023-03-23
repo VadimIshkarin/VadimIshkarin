@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack engineer who is passionate about web development.<a href="https://linkedin.com/in/vadim-ishkarin/" target="_blank">
+I'm a full stack engineer who is passionate about web development.<a href="https://linkedin.com/in/vadim-ishkarin/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN%20-%23537FE7.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 ### Here are a few technologies I’ve been working with recently:
