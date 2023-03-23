@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a full-stack developer who is passionate about web development.
+I'm a full-stack developer who is passionate about web development.<a href="https://linkedin.com/in/vadim-ishkarin/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN%20-%23537FE7.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 ### Here are a few technologies I’ve been working with recently:
 ![JavaScript (ES6+)](https://img.shields.io/badge/javascript_(ES6+)-%23323320.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
